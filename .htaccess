@@ -1,4 +1,4 @@
-AuthUserFile /watanabe-ux/watanabe-ux.github.io/.htpasswd
+AuthUserFile /watanabe-ux.github.io/.htpasswd
 AuthGroupFile /dev/null
 AuthName "Input Id and Password"
 AuthType Basic
